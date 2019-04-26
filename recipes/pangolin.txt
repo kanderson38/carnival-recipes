@@ -2,6 +2,7 @@ Korica's Buffalo Chicken Dip
 ----------------------------
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 2 lbs beef round steak, chuck
 3 1/4 cups flour
 
@@ -30,18 +31,21 @@ Time: 2 hours
 Ingredients:
 2 pieces taro
 >>>>>>> 131d9983842bf699798d31699432b5376e32451e
+=======
+Ingredients:
+3 tablespoons instantized flour
+
+Directions:
+11. Add enough milk to make a heavy dough or batter.
+
+Time: 2 hours
+
+>>>>>>> e3cafdfa7c7c2c14e76d5b08bac545f0f1db7a97
 2 tablespoons oil or 2 tablespoons butter
 1 tablespoon paprika
 1/2 tablespoon marjoram
 3 tablespoons tomato paste
 
-Time: 2 hours
-
-Directions:
 2. Brown onions in oil in a large heavy flameproof casserole or saucepan.
 4. Sprinkle with flour.
-5. Add paprika, marjoram, caraway seed and tomato paste.
-7. Bring to a boil, reduce heat; cover and simmer 1 1/2 hours or until meat is tender.
-7. Put-in the sinigang mix
 13. Boil for 6-8 minutes.
-
