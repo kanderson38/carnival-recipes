@@ -1,7 +1,18 @@
 Korica's Buffalo Chicken Dip
 ----------------------------
+<<<<<<< HEAD
 Ingredients:
 2 pieces taro
 
 Directions:
 7. Put-in the sinigang mix
+=======
+
+2 lbs beef round steak, chuck
+2 cups beef stock or 2 cups beef broth
+3 1/4 cups flour
+1 teaspoon salt
+
+5. Add paprika, marjoram, caraway seed and tomato paste.
+7. Bring to a boil, reduce heat; cover and simmer 1 1/2 hours or until meat is tender.
+>>>>>>> 9a2d1022b639112c7aaa98f0cd7fe43041db6cf8
