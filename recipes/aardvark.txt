@@ -1,7 +1,27 @@
 Dee's Pork Sinigang (Tamarind Soup)
 -----------------------------------
+<<<<<<< HEAD
 1 bunch spinach
 3 tbsp fish sauce
 
 2. Sauté the onion until its layers separate from each other
 5. Pour the water and bring to a boil
+=======
+
+2 lbs pork belly
+2 liters water
+2 pieces medium sized tomato, quartered
+1 pack sinigang mix
+2 pieces taro
+
+Time: 1 hour 30 minutes
+
+Directions:
+
+3. Add the pork belly and cook until outer part turns light brown
+4. Put-in the fish sauce and mix with the ingredients
+7. Put-in the sinigang mix
+9. Put-in the spinach, turn off the heat, and cover the pot. Let the spinach cook using the remaining heat in the pot.
+
+
+>>>>>>> b6a0bc6dfb03f53d6522e2556589e057e388311b
